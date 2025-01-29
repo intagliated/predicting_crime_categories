@@ -1,4 +1,4 @@
-# Crime Classification Using Machine Learning
+# Predicting Crime Categories Using Machine Learning
 
 ## Project Overview
 This project focuses on crime classification using machine learning models. The dataset comprises 20,000 records and 20 columns, covering aspects such as incident location, victim demographics, date, and time. The target variable includes six crime categories:
