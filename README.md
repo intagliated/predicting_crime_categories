@@ -5,7 +5,6 @@ This project focuses on crime classification using machine learning models. The 
 
 ## Data Exploration, Cleaning, and Preprocessing
 - Conducted thorough data exploration to understand patterns and missing values.
-- Applied cleaning techniques to remove inconsistencies and outliers.
 - Created 23 relevant feature columns to enhance model performance.
 
 ## Machine Learning Models
